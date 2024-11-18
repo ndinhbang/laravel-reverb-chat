@@ -114,6 +114,3 @@ php artisan serve
 
 -   Open the application in a browser at [http://127.0.0.1:8000](http://127.0.0.1:8000).
 
-#### Author:
-
--   [ndinhbang](https://ndinhbang.com/)
